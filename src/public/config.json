@@ -1,0 +1,8 @@
+{
+  "name": "Prismada GitHub Manager",
+  "tagline": "Manage GitHub repositories for the prismada organization",
+  "example": "List all repositories in the prismada organization",
+  "buttonText": "Search",
+  "workingText": "Searching...",
+  "statusText": "Prismada GitHub Manager is working..."
+}
